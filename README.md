@@ -1,4 +1,4 @@
-# DATA 512 A - Human Centered Data Science: Final class project
+# DATA 512 A: Final class project
 This repository contains the Human Resource Diversity Analysis done for the final project of the DATA 512A: Human Centered Data Science course offered at University of Washington.
 
 ### Data Source
