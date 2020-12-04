@@ -24,8 +24,7 @@ The MSDS program at UW is committed to fostering an inclusive environment for al
 |    └── HRDataset.csv
 ├── Figures
 ├── HrDiversityAnalysis.ipynb
-├── LICENSE
-└── Abstract
+└── LICENSE
 ```
 
 
