@@ -97,6 +97,8 @@ A deep analysis has showed some wage gaps inside departments:
 
 ### 3. What is the overall diversity profile of the organization?
 
+<img src="Figures/Pay_rate_race_department.png">
+
 **Race**
 
 While more than half of the workforce is made of white people, we've seen before that the jobs are more well distributed along underrepresented groups comparatively to official statistics in a national level. 
