@@ -1,6 +1,7 @@
 
 
 # DATA 512 A: Final class project
+### By Samarth Modi
 
 ## Goal
 By performing an exploratory analysis on Human Resource data, I wish to learn about the industrial paradigm of diversity. Specifically, I wish to have a holistic view of diversity at a typical company and have a better understanding of how far we have come with diversity and inclusion, thus bolstering our human-centered perspective of the same. This analysis will help us learn about different areas where diversity has been properly embraced, and the areas where we need to work more to include more diversity, thus making it a human centered data science project.
@@ -8,7 +9,7 @@ By performing an exploratory analysis on Human Resource data, I wish to learn ab
 
 ## Repository Structure
 
-- [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Dicrectory containing the dataset used
+- [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Directory containing the dataset used
     - [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis
 - [Figures](https://github.com/samarthjmodi/data-512-final/tree/main/Figures): Directory containing all of the figures generated during the analysis in the Jupyter notebook
 
