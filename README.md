@@ -1,8 +1,10 @@
 
 
-# Human Resource Diversity 
+# Human Resource Diversity Analysis
 By Samarth Modi
+
 MS Data Science, University of Washington 
+
 Date: Dec 15, 2020
 
 
