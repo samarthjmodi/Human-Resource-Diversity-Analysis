@@ -71,6 +71,8 @@ This matter should be addressed with regards to which groups are rejected the mo
 
 Throughout the analysis of all features, *Diversity Job Fair* proved to be vital in making this company more plural. It should only be encouraged and expanded.
 
+<img src="Figures/Recruitment_Sources.png">
+
 Regarding race, more than half of the people hired via *Indeed* and *on-campus recruiting* are from underrepresented groups. Contrastingly, some sources need to undergo further scrutiny as to *why they only bring white employees*.
 
 When it comes to age diversity, the organization is far behind, and no recruitment source is distinctly efficient.
@@ -81,11 +83,17 @@ A deep analysis has showed some wage gaps inside departments:
 
 1. **At *IT/IS*, people of *two or more races* are paid significantly less than other workers in the same job position**. None of the data show a cause for that.
 
+<img src="Figures/Pay_position.png">
+
 2. **Women's income is lower overall.** The gap stems mainly from two sources:
   - in *Production*, the least well-paid department, females outnumber males by some extent, which results in a greater impact in women's overall salary. Their average income is also slightly inferior in the department;
   - in *Admin Offices*, the wage gap between genders is substantial, though it is hard to tell if the distribution of functions is discriminatory.
+  
+<img src="Figures/Pay_dept.png">
 
 3. **Most workers aged 50+ in *Production* work at lower-paid positions.**
+
+<img src="Figures/Pay_position_age_productionDept.png">
 
 ### 3. What is the overall diversity profile of the organization?
 
