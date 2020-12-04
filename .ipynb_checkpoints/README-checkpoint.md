@@ -8,16 +8,6 @@ By performing an exploratory analysis on Human Resource data, I wish to learn ab
 
 ## Repository Structure
 
-.
-+-- [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Dicrectory containing the dataset used
-|   +-- [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis
-+-- [Figures](https://github.com/samarthjmodi/data-512-final/tree/main/Figures): Directory containing all of the figures generated during the analysis in the Jupyter notebook
-+-- [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/HRDiversityAnalysis.ipynb): Jupyter notebook that contains both my written report and my code
-+-- [LICENSE](https://github.com/samarthjmodi/data-512-final/blob/main/LICENSE): MIT LICENSE file for my code
-+-- [Abstract](https://github.com/samarthjmodi/data-512-final/blob/main/Abstract.txt): A short scientific abstract of my study
-
-
-
 - [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Dicrectory containing the dataset used
     - [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis
 - [Figures](https://github.com/samarthjmodi/data-512-final/tree/main/Figures): Directory containing all of the figures generated during the analysis in the Jupyter notebook
@@ -53,3 +43,53 @@ Python Libraries and versions:
 |pandas	            |1.1.4|
 |numpy	            |1.19.4|
 
+## Key Findings and Implications
+ 
+### 1. What are our best recruiting sources if we want to ensure a diverse organization?
+
+It's important that every organization strives to make sure their recruitment practices aren't affected by prejudices or biases.
+This matter should be addressed with regards to which groups are rejected the most when searching for jobs. 
+**Discrimination is an issue that constantly hits non-white people, women and elders.**
+
+Throughout the analysis of all features, *Diversity Job Fair* proved to be vital in making this company more plural. It should only be encouraged and expanded.
+
+Regarding race, more than half of the people hired via *Indeed* and *on-campus recruiting* are from underrepresented groups. Contrastingly, some sources need to undergo further scrutiny as to *why they only bring white employees*.
+
+When it comes to age diversity, the organization is far behind, and no recruitment source is distinctly efficient.
+
+### 2. Are there areas of the company where pay is not equitable?
+
+A deep analysis has showed some wage gaps inside departments:
+
+1. **At *IT/IS*, people of *two or more races* are paid significantly less than other workers in the same job position**. None of the data show a cause for that.
+
+2. **Women's income is lower overall.** The gap stems mainly from two sources:
+  - in *Production*, the least well-paid department, females outnumber males by some extent, which results in a greater impact in women's overall salary. Their average income is also slightly inferior in the department;
+  - in *Admin Offices*, the wage gap between genders is substantial, though it is hard to tell if the distribution of functions is discriminatory.
+
+3. **Most workers aged 50+ in *Production* work at lower-paid positions.**
+
+### 3. What is the overall diversity profile of the organization?
+
+**Race**
+
+While more than half of the workforce is made of white people, we've seen before that the jobs are more well distributed along underrepresented groups comparatively to official statistics in a national level. 
+
+*Hispanics* get a slightly higher pay rate in average, whereas *American Indian or Alaska Natives* perform lower on that variable. Considering that these groups have only four members each, it is premature to conclude the divergence is caused by any discriminatory treatment.
+
+**Gender**
+
+The workforce is predominantly female. Additionally, the company's CEO is a woman, and some more can be found in other high positions. These are positive, distinctive traits in a world that favors hiring male workers for most roles, especially leading ones.
+
+A potential highlight is how the company hires many women to work in *Production*, a department where labor is often manual.
+
+However, the company still faces some income inequality related to gender. The issue should be further investigated and dealt with.
+
+**Age**
+
+Only 6.4% of the workers are 55 or older. This is certainly a diversity issue, specially looking at how 2018 data from the US BLS shows that 23.1% of the workforce in the country is in that age group (https://www.bls.gov/emp/graphics/2019/labor-force-share-by-age-group.htm).
+
+**The matter is specially precarious in the Software Engineering department and Admin Offices, that together count no more than a handful employees over *40*.**
+
+
+*Sales*, on the other hand, performs really well, having a good amount of well-paid elderly workers.
