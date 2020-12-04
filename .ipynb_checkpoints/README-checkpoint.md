@@ -1,9 +1,9 @@
 
 
 # Human Resource Diversity 
-#### By Samarth Modi
-#### MS Data Science, University of Washington 
-#### Date: Dec 15, 2020
+By Samarth Modi
+MS Data Science, University of Washington 
+Date: Dec 15, 2020
 
 
 ## Abstract
@@ -16,7 +16,7 @@ The MSDS program at UW is committed to fostering an inclusive environment for al
 
 ## Repository Structure
 
-
+```
 .
 ├── [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Directory containing the dataset used.
     └── [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis.
@@ -24,7 +24,7 @@ The MSDS program at UW is committed to fostering an inclusive environment for al
 ├── [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/HRDiversityAnalysis.ipynb): Jupyter notebook that contains both my written report and my code.
 ├── [LICENSE](https://github.com/samarthjmodi/data-512-final/blob/main/LICENSE): MIT LICENSE file for my code.
 └── [Abstract](https://github.com/samarthjmodi/data-512-final/blob/main/Abstract.txt): A short scientific abstract of my study
-
+```
 
 
 - [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Directory containing the dataset used
