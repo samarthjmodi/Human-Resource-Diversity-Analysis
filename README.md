@@ -1,16 +1,34 @@
 
 
-# DATA 512 A: Final class project
-### By Samarth Modi
+# Human Resource Diversity 
+#### By Samarth Modi
+#### MS Data Science, University of Washington 
+#### Date: Dec 15, 2020
 
-## Goal
-By performing an exploratory analysis on Human Resource data, I wish to learn about the industrial paradigm of diversity. Specifically, I wish to have a holistic view of diversity at a typical company and have a better understanding of how far we have come with diversity and inclusion, thus bolstering our human-centered perspective of the same. This analysis will help us learn about different areas where diversity has been properly embraced, and the areas where we need to work more to include more diversity, thus making it a human centered data science project.
+
+## Abstract
+With diversity and inclusion becoming crucial to the mordern workplace, it is often unclear how far we have reached today in inculcating a culture that is inclusive of personnels demonstrating diversity across race, gender, age, etc. To get a better understanding of the same, we perform an exploratory analysis of Human Resource data from an anonymous workplace. We observe that the workplace does demonstrate diversity and inclusion to a high extend, but it is far from being absolutely non-discriminatory. We learn about the differences in diversity due to recruiting sources, difference in the pay as well as about the overall diversity in the organization race, gender and age. We conclude by considering a bigger, richer dataset as well as data from multiple workplaces to extend our understanding of diversity before implying anything concrete from the current analysis.
+
+## Introduction and Motivation
+
+The MSDS program at UW is committed to fostering an inclusive environment for all individuals in our community by promoting diversity and inclusivity. Thus, we see that diversity and inclusion has been given a high priority at academic institutions as UW. This makes me wonder about the industrial paradigm of diversity and inclusion. By performing an exploratory analysis on Human Resource data, I wish to learn about the industrial paradigm of diversity. Specifically, I wish to have a holistic view of diversity at a typical company and have a better understanding of how far we have come with diversity and inclusion, thus bolstering our human-centered perspective of the same. This analysis will help us learn about different areas where diversity has been properly embraced, and the areas where we need to work more to include more diversity, thus making it a human centered data science project. Specifically, we would be able to check if there is either correlational or causational relationship between diversity in the workforce and certain other entities associated with the HR data of the workforce, eg. seniority, pay, gender, etc.
 
 
 ## Repository Structure
 
+
+.
+├── [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Directory containing the dataset used.
+    └── [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis.
+├── [Figures](https://github.com/samarthjmodi/data-512-final/tree/main/Figures): Directory containing all of the figures generated during the analysis in the Jupyter notebook.
+├── [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/HRDiversityAnalysis.ipynb): Jupyter notebook that contains both my written report and my code.
+├── [LICENSE](https://github.com/samarthjmodi/data-512-final/blob/main/LICENSE): MIT LICENSE file for my code.
+└── [Abstract](https://github.com/samarthjmodi/data-512-final/blob/main/Abstract.txt): A short scientific abstract of my study
+
+
+
 - [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Directory containing the dataset used
-    - [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis
+    `- [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis
 - [Figures](https://github.com/samarthjmodi/data-512-final/tree/main/Figures): Directory containing all of the figures generated during the analysis in the Jupyter notebook
 
 - [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/HRDiversityAnalysis.ipynb): Jupyter notebook that contains both my written report and my code
@@ -44,7 +62,7 @@ Python Libraries and versions:
 |pandas	            |1.1.4|
 |numpy	            |1.19.4|
 
-## Key Findings and Implications
+## Key Findings
  
 ### 1. What are our best recruiting sources if we want to ensure a diverse organization?
 

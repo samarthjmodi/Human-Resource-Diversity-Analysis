@@ -1,15 +1,34 @@
 
 
-# DATA 512 A: Final class project
+# Human Resource Diversity 
+#### By Samarth Modi
+#### MS Data Science, University of Washington 
+#### Date: Dec 15, 2020
 
-## Goal
-By performing an exploratory analysis on Human Resource data, I wish to learn about the industrial paradigm of diversity. Specifically, I wish to have a holistic view of diversity at a typical company and have a better understanding of how far we have come with diversity and inclusion, thus bolstering our human-centered perspective of the same. This analysis will help us learn about different areas where diversity has been properly embraced, and the areas where we need to work more to include more diversity, thus making it a human centered data science project.
+
+## Abstract
+With diversity and inclusion becoming crucial to the mordern workplace, it is often unclear how far we have reached today in inculcating a culture that is inclusive of personnels demonstrating diversity across race, gender, age, etc. To get a better understanding of the same, we perform an exploratory analysis of Human Resource data from an anonymous workplace. We observe that the workplace does demonstrate diversity and inclusion to a high extend, but it is far from being absolutely non-discriminatory. We learn about the differences in diversity due to recruiting sources, difference in the pay as well as about the overall diversity in the organization race, gender and age. We conclude by considering a bigger, richer dataset as well as data from multiple workplaces to extend our understanding of diversity before implying anything concrete from the current analysis.
+
+## Introduction and Motivation
+
+The MSDS program at UW is committed to fostering an inclusive environment for all individuals in our community by promoting diversity and inclusivity. Thus, we see that diversity and inclusion has been given a high priority at academic institutions as UW. This makes me wonder about the industrial paradigm of diversity and inclusion. By performing an exploratory analysis on Human Resource data, I wish to learn about the industrial paradigm of diversity. Specifically, I wish to have a holistic view of diversity at a typical company and have a better understanding of how far we have come with diversity and inclusion, thus bolstering our human-centered perspective of the same. This analysis will help us learn about different areas where diversity has been properly embraced, and the areas where we need to work more to include more diversity, thus making it a human centered data science project. Specifically, we would be able to check if there is either correlational or causational relationship between diversity in the workforce and certain other entities associated with the HR data of the workforce, eg. seniority, pay, gender, etc.
 
 
 ## Repository Structure
 
-- [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Dicrectory containing the dataset used
-    - [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis
+
+.
+├── [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Directory containing the dataset used.
+    └── [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis.
+├── [Figures](https://github.com/samarthjmodi/data-512-final/tree/main/Figures): Directory containing all of the figures generated during the analysis in the Jupyter notebook.
+├── [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/HRDiversityAnalysis.ipynb): Jupyter notebook that contains both my written report and my code.
+├── [LICENSE](https://github.com/samarthjmodi/data-512-final/blob/main/LICENSE): MIT LICENSE file for my code.
+└── [Abstract](https://github.com/samarthjmodi/data-512-final/blob/main/Abstract.txt): A short scientific abstract of my study
+
+
+
+- [Data](https://github.com/samarthjmodi/data-512-final/tree/main/Data): Directory containing the dataset used
+    `- [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/Data/HRDataset.csv): The dataset used in this analysis
 - [Figures](https://github.com/samarthjmodi/data-512-final/tree/main/Figures): Directory containing all of the figures generated during the analysis in the Jupyter notebook
 
 - [HrDiversityAnalysis.ipynb](https://github.com/samarthjmodi/data-512-final/blob/main/HRDiversityAnalysis.ipynb): Jupyter notebook that contains both my written report and my code
@@ -43,7 +62,7 @@ Python Libraries and versions:
 |pandas	            |1.1.4|
 |numpy	            |1.19.4|
 
-## Key Findings and Implications
+## Key Findings
  
 ### 1. What are our best recruiting sources if we want to ensure a diverse organization?
 
@@ -93,3 +112,10 @@ Only 6.4% of the workers are 55 or older. This is certainly a diversity issue, s
 
 
 *Sales*, on the other hand, performs really well, having a good amount of well-paid elderly workers.
+
+## Conclusion
+
+By performing an exploratory analysis on the Human Resource data, we learned about the industrial paradigm of diversity. We tried to have a holistic view of diversity at a typical company and have a better understanding of how far we have come with diversity and inclusion, thus bolstering our human-centered perspective of the same. However, as mentioned in the previous section, we successfully understand the diversity paradigm of the anonymous company, but fail to extend the findings to the workforce population. This analysis will helped us learn about different areas where diversity has been properly embraced at the anonymous company, and the areas where we need to work more to include more diversity, thus making it a human centered data science project.
+
+We learn that Diversity Job Fair proved to be vital in making this company more plural. It should only be encouraged and expanded. We also learn that Women and workers aged 50+ in Production work belong to the lesser paid strata of the company. We assessed the diversity of the company with respect to race, gender and age, and a good amout of learning from the same. Overall, we can say that the anonymous company is a generally diverse company, though it still has some faults. The biggest issue is the lack of age diversity, which is not truly promoted by any recruitment source. The organization should review its hiring practices to remove any potential bias. Further research is required to extend the analysis to a larger audience and improve its generalizability. But overall, we can safely say that the society has progressed towards more diversity, and it has become more inclusive, though there is still scope of improvement.
+
