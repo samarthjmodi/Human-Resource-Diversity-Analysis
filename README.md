@@ -26,7 +26,7 @@ The dataset can be found here: [Human Resources Data Set](https://www.kaggle.com
 
 The dataset has Creative Commons license, proprietary to New England College of Business, but free for use for academic purpose. Since HR data can be hard to come by, this dataset containing demographic information about the staff of this anonymous company can be deemed fit for our purpose of Diversity Analysis, and thus is very relevant to our problem statement. Since this dataset contains the names of the staff, we have an ethical responsibility to get rid of this personally identifiable information before starting our analysis and we need to make sure that any observed result cannot be mapped to any particular staff member.
 
-### DEPENDENCIES
+## DEPENDENCIES
 
 OS type and version: macOS Catalina, Version 10.15.7, OS build 18362.535
 
@@ -93,3 +93,10 @@ Only 6.4% of the workers are 55 or older. This is certainly a diversity issue, s
 
 
 *Sales*, on the other hand, performs really well, having a good amount of well-paid elderly workers.
+
+## Conclusion
+
+By performing an exploratory analysis on the Human Resource data, we learned about the industrial paradigm of diversity. We tried to have a holistic view of diversity at a typical company and have a better understanding of how far we have come with diversity and inclusion, thus bolstering our human-centered perspective of the same. However, as mentioned in the previous section, we successfully understand the diversity paradigm of the anonymous company, but fail to extend the findings to the workforce population. This analysis will helped us learn about different areas where diversity has been properly embraced at the anonymous company, and the areas where we need to work more to include more diversity, thus making it a human centered data science project.
+
+We learn that Diversity Job Fair proved to be vital in making this company more plural. It should only be encouraged and expanded. We also learn that Women and workers aged 50+ in Production work belong to the lesser paid strata of the company. We assessed the diversity of the company with respect to race, gender and age, and a good amout of learning from the same. Overall, we can say that the anonymous company is a generally diverse company, though it still has some faults. The biggest issue is the lack of age diversity, which is not truly promoted by any recruitment source. The organization should review its hiring practices to remove any potential bias. Further research is required to extend the analysis to a larger audience and improve its generalizability. But overall, we can safely say that the society has progressed towards more diversity, and it has become more inclusive, though there is still scope of improvement.
+

@@ -26,7 +26,7 @@ The dataset can be found here: [Human Resources Data Set](https://www.kaggle.com
 
 The dataset has Creative Commons license, proprietary to New England College of Business, but free for use for academic purpose. Since HR data can be hard to come by, this dataset containing demographic information about the staff of this anonymous company can be deemed fit for our purpose of Diversity Analysis, and thus is very relevant to our problem statement. Since this dataset contains the names of the staff, we have an ethical responsibility to get rid of this personally identifiable information before starting our analysis and we need to make sure that any observed result cannot be mapped to any particular staff member.
 
-### DEPENDENCIES
+## DEPENDENCIES
 
 OS type and version: macOS Catalina, Version 10.15.7, OS build 18362.535
 
